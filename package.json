@@ -1,0 +1,103 @@
+{
+  "name": "@neabyte/perf-observer",
+  "version": "0.1.0",
+  "description": "A lightweight performance observer using native Node.js performance APIs for debugging and benchmarking",
+  "type": "module",
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "require": "./dist/index.cjs",
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc --noEmit && unbuild --minify",
+    "lint": "eslint 'src/**/*.ts'",
+    "lint:fix": "eslint 'src/**/*.ts' --fix",
+    "format": "prettier --write 'src/**/*.ts'",
+    "clean": "rm -rf dist && rm -rf .tsbuildinfo",
+    "prepublishOnly": "npm run clean && npm run build"
+  },
+  "keywords": [
+    "performance",
+    "monitoring",
+    "benchmarking",
+    "profiling",
+    "timing",
+    "metrics",
+    "nodejs",
+    "typescript",
+    "debugging",
+    "optimization",
+    "observability",
+    "measurement",
+    "analytics",
+    "statistics",
+    "latency",
+    "throughput",
+    "speed",
+    "fast",
+    "lightweight",
+    "native",
+    "api",
+    "tool",
+    "utility",
+    "library",
+    "package",
+    "npm",
+    "perf",
+    "observer",
+    "tracking",
+    "measure",
+    "analyze",
+    "inspect",
+    "diagnose",
+    "troubleshoot",
+    "devtools",
+    "development",
+    "testing",
+    "quality",
+    "reliability"
+  ],
+  "author": {
+    "name": "NeaByteLab",
+    "email": "me@neabyte.com",
+    "url": "https://github.com/NeaByteLab"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeaByteLab/Perf-Observer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NeaByteLab/Perf-Observer/issues"
+  },
+  "homepage": "https://github.com/NeaByteLab/Perf-Observer#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.38.0",
+    "@types/node": "^24.8.1",
+    "@typescript-eslint/eslint-plugin": "^8.46.1",
+    "@typescript-eslint/parser": "^8.46.1",
+    "eslint": "^9.38.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-security": "^3.0.1",
+    "eslint-plugin-sonarjs": "^3.0.5",
+    "prettier": "^3.6.2",
+    "typescript": "^5.9.3",
+    "unbuild": "^3.6.1"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "files": [
+    "dist/**/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
